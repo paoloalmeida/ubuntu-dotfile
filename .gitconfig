@@ -1,0 +1,7 @@
+[user]
+	name = Paolo Almeida
+	email = paoloalmeida@ymail.com
+[push]
+	default = matching
+[credential]
+	helper = cache

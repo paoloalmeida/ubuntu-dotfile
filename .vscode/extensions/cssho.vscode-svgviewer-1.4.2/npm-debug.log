@@ -1,0 +1,694 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'rebuild' ]
+2 info using npm@3.5.2
+3 info using node@v4.2.6
+4 info readInstalled object
+5 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2',
+5 verbose rebuild   'vscode-svgviewer@1.4.2' ]
+6 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/copy-paste',
+6 verbose rebuild   'copy-paste@1.3.0' ]
+7 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/iconv-lite',
+7 verbose rebuild   'iconv-lite@0.4.13' ]
+8 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/jquery',
+8 verbose rebuild   'jquery@3.2.1' ]
+9 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/node-cmd',
+9 verbose rebuild   'node-cmd@1.3.0' ]
+10 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/path',
+10 verbose rebuild   'path@0.12.7' ]
+11 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/process',
+11 verbose rebuild   'process@0.11.4' ]
+12 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/util',
+12 verbose rebuild   'util@0.10.3' ]
+13 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/inherits',
+13 verbose rebuild   'inherits@2.0.1' ]
+14 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/pn',
+14 verbose rebuild   'pn@1.0.0' ]
+15 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/svgexport',
+15 verbose rebuild   'svgexport@0.3.2' ]
+16 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/async',
+16 verbose rebuild   'async@1.5.2' ]
+17 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt',
+17 verbose rebuild   'phantomjs-prebuilt@2.1.7' ]
+18 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/extract-zip',
+18 verbose rebuild   'extract-zip@1.5.0' ]
+19 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/concat-stream',
+19 verbose rebuild   'concat-stream@1.5.0' ]
+20 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/concat-stream/node_modules/readable-stream',
+20 verbose rebuild   'readable-stream@2.0.6' ]
+21 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/core-util-is',
+21 verbose rebuild   'core-util-is@1.0.2' ]
+22 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/concat-stream/node_modules/isarray',
+22 verbose rebuild   'isarray@1.0.0' ]
+23 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/process-nextick-args',
+23 verbose rebuild   'process-nextick-args@1.0.7' ]
+24 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/string_decoder',
+24 verbose rebuild   'string_decoder@0.10.31' ]
+25 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/util-deprecate',
+25 verbose rebuild   'util-deprecate@1.0.2' ]
+26 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/typedarray',
+26 verbose rebuild   'typedarray@0.0.6' ]
+27 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/extract-zip/node_modules/debug',
+27 verbose rebuild   'debug@0.7.4' ]
+28 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/extract-zip/node_modules/mkdirp',
+28 verbose rebuild   'mkdirp@0.5.0' ]
+29 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/minimist',
+29 verbose rebuild   'minimist@0.0.8' ]
+30 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/extract-zip/node_modules/yauzl',
+30 verbose rebuild   'yauzl@2.4.1' ]
+31 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/fd-slicer',
+31 verbose rebuild   'fd-slicer@1.0.1' ]
+32 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/pend',
+32 verbose rebuild   'pend@1.2.0' ]
+33 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/fs-extra',
+33 verbose rebuild   'fs-extra@0.26.7' ]
+34 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/fs-extra/node_modules/graceful-fs',
+34 verbose rebuild   'graceful-fs@4.1.4' ]
+35 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/jsonfile',
+35 verbose rebuild   'jsonfile@2.3.1' ]
+36 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/klaw',
+36 verbose rebuild   'klaw@1.3.0' ]
+37 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/path-is-absolute',
+37 verbose rebuild   'path-is-absolute@1.0.0' ]
+38 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/rimraf',
+38 verbose rebuild   'rimraf@2.5.2' ]
+39 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/rimraf/node_modules/glob',
+39 verbose rebuild   'glob@7.0.3' ]
+40 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/inflight',
+40 verbose rebuild   'inflight@1.0.5' ]
+41 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/once',
+41 verbose rebuild   'once@1.3.3' ]
+42 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/wrappy',
+42 verbose rebuild   'wrappy@1.0.2' ]
+43 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/minimatch',
+43 verbose rebuild   'minimatch@3.0.0' ]
+44 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/brace-expansion',
+44 verbose rebuild   'brace-expansion@1.1.4' ]
+45 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/balanced-match',
+45 verbose rebuild   'balanced-match@0.4.1' ]
+46 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/concat-map',
+46 verbose rebuild   'concat-map@0.0.1' ]
+47 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/hasha',
+47 verbose rebuild   'hasha@2.2.0' ]
+48 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/is-stream',
+48 verbose rebuild   'is-stream@1.1.0' ]
+49 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/pinkie-promise',
+49 verbose rebuild   'pinkie-promise@2.0.1' ]
+50 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/pinkie',
+50 verbose rebuild   'pinkie@2.0.4' ]
+51 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/kew',
+51 verbose rebuild   'kew@0.7.0' ]
+52 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/progress',
+52 verbose rebuild   'progress@1.1.8' ]
+53 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/request',
+53 verbose rebuild   'request@2.67.0' ]
+54 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/aws-sign2',
+54 verbose rebuild   'aws-sign2@0.6.0' ]
+55 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/bl',
+55 verbose rebuild   'bl@1.0.3' ]
+56 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/readable-stream',
+56 verbose rebuild   'readable-stream@2.0.6' ]
+57 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/isarray',
+57 verbose rebuild   'isarray@1.0.0' ]
+58 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/caseless',
+58 verbose rebuild   'caseless@0.11.0' ]
+59 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/combined-stream',
+59 verbose rebuild   'combined-stream@1.0.5' ]
+60 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/delayed-stream',
+60 verbose rebuild   'delayed-stream@1.0.0' ]
+61 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/extend',
+61 verbose rebuild   'extend@3.0.0' ]
+62 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/forever-agent',
+62 verbose rebuild   'forever-agent@0.6.1' ]
+63 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/form-data',
+63 verbose rebuild   'form-data@1.0.0-rc4' ]
+64 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/form-data/node_modules/mime-types',
+64 verbose rebuild   'mime-types@2.1.11' ]
+65 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/mime-db',
+65 verbose rebuild   'mime-db@1.23.0' ]
+66 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/har-validator',
+66 verbose rebuild   'har-validator@2.0.6' ]
+67 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/chalk',
+67 verbose rebuild   'chalk@1.1.3' ]
+68 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/ansi-styles',
+68 verbose rebuild   'ansi-styles@2.2.1' ]
+69 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/escape-string-regexp',
+69 verbose rebuild   'escape-string-regexp@1.0.5' ]
+70 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/has-ansi',
+70 verbose rebuild   'has-ansi@2.0.0' ]
+71 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/ansi-regex',
+71 verbose rebuild   'ansi-regex@2.0.0' ]
+72 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/strip-ansi',
+72 verbose rebuild   'strip-ansi@3.0.1' ]
+73 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/supports-color',
+73 verbose rebuild   'supports-color@2.0.0' ]
+74 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/commander',
+74 verbose rebuild   'commander@2.9.0' ]
+75 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/graceful-readlink',
+75 verbose rebuild   'graceful-readlink@1.0.1' ]
+76 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/is-my-json-valid',
+76 verbose rebuild   'is-my-json-valid@2.13.1' ]
+77 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/generate-function',
+77 verbose rebuild   'generate-function@2.0.0' ]
+78 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/generate-object-property',
+78 verbose rebuild   'generate-object-property@1.2.0' ]
+79 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/is-property',
+79 verbose rebuild   'is-property@1.0.2' ]
+80 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/jsonpointer',
+80 verbose rebuild   'jsonpointer@2.0.0' ]
+81 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/xtend',
+81 verbose rebuild   'xtend@4.0.1' ]
+82 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/hawk',
+82 verbose rebuild   'hawk@3.1.3' ]
+83 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/boom',
+83 verbose rebuild   'boom@2.10.1' ]
+84 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/hoek',
+84 verbose rebuild   'hoek@2.16.3' ]
+85 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/cryptiles',
+85 verbose rebuild   'cryptiles@2.0.5' ]
+86 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/sntp',
+86 verbose rebuild   'sntp@1.0.9' ]
+87 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/http-signature',
+87 verbose rebuild   'http-signature@1.1.1' ]
+88 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/assert-plus',
+88 verbose rebuild   'assert-plus@0.2.0' ]
+89 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/jsprim',
+89 verbose rebuild   'jsprim@1.2.2' ]
+90 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/extsprintf',
+90 verbose rebuild   'extsprintf@1.0.2' ]
+91 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/json-schema',
+91 verbose rebuild   'json-schema@0.2.2' ]
+92 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/verror',
+92 verbose rebuild   'verror@1.3.6' ]
+93 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/sshpk',
+93 verbose rebuild   'sshpk@1.8.3' ]
+94 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/sshpk/node_modules/asn1',
+94 verbose rebuild   'asn1@0.2.3' ]
+95 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/sshpk/node_modules/assert-plus',
+95 verbose rebuild   'assert-plus@1.0.0' ]
+96 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/dashdash',
+96 verbose rebuild   'dashdash@1.14.0' ]
+97 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/dashdash/node_modules/assert-plus',
+97 verbose rebuild   'assert-plus@1.0.0' ]
+98 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/getpass',
+98 verbose rebuild   'getpass@0.1.6' ]
+99 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/getpass/node_modules/assert-plus',
+99 verbose rebuild   'assert-plus@1.0.0' ]
+100 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/is-typedarray',
+100 verbose rebuild   'is-typedarray@1.0.0' ]
+101 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/isstream',
+101 verbose rebuild   'isstream@0.1.2' ]
+102 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/json-stringify-safe',
+102 verbose rebuild   'json-stringify-safe@5.0.1' ]
+103 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/mime-types',
+103 verbose rebuild   'mime-types@2.1.11' ]
+104 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/node-uuid',
+104 verbose rebuild   'node-uuid@1.4.7' ]
+105 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/oauth-sign',
+105 verbose rebuild   'oauth-sign@0.8.2' ]
+106 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/qs',
+106 verbose rebuild   'qs@5.2.0' ]
+107 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/stringstream',
+107 verbose rebuild   'stringstream@0.0.5' ]
+108 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/tough-cookie',
+108 verbose rebuild   'tough-cookie@2.2.2' ]
+109 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/tunnel-agent',
+109 verbose rebuild   'tunnel-agent@0.4.3' ]
+110 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/request-progress',
+110 verbose rebuild   'request-progress@2.0.1' ]
+111 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/throttleit',
+111 verbose rebuild   'throttleit@1.0.0' ]
+112 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/which',
+112 verbose rebuild   'which@1.2.10' ]
+113 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/isexe',
+113 verbose rebuild   'isexe@1.1.2' ]
+114 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/tmp',
+114 verbose rebuild   'tmp@0.0.28' ]
+115 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/os-tmpdir',
+115 verbose rebuild   'os-tmpdir@1.0.1' ]
+116 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/ecc-jsbn',
+116 verbose rebuild   'ecc-jsbn@0.1.1' ]
+117 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/jsbn',
+117 verbose rebuild   'jsbn@0.1.0' ]
+118 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/jodid25519',
+118 verbose rebuild   'jodid25519@1.0.2' ]
+119 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/sync-exec',
+119 verbose rebuild   'sync-exec@0.6.2' ]
+120 verbose rebuild path, id [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/tweetnacl',
+120 verbose rebuild   'tweetnacl@0.13.3' ]
+121 silly rebuild set [ '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/copy-paste',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/iconv-lite',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/jquery',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/node-cmd',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/path',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/process',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/util',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/inherits',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/pn',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/svgexport',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/async',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/extract-zip',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/concat-stream',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/concat-stream/node_modules/readable-stream',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/core-util-is',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/concat-stream/node_modules/isarray',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/process-nextick-args',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/string_decoder',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/util-deprecate',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/typedarray',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/extract-zip/node_modules/debug',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/extract-zip/node_modules/mkdirp',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/minimist',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/extract-zip/node_modules/yauzl',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/fd-slicer',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/pend',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/fs-extra',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/fs-extra/node_modules/graceful-fs',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/jsonfile',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/klaw',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/path-is-absolute',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/rimraf',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/rimraf/node_modules/glob',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/inflight',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/once',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/wrappy',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/minimatch',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/brace-expansion',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/balanced-match',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/concat-map',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/hasha',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/is-stream',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/pinkie-promise',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/pinkie',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/kew',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/progress',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/request',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/aws-sign2',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/bl',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/readable-stream',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/isarray',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/caseless',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/combined-stream',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/delayed-stream',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/extend',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/forever-agent',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/form-data',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/form-data/node_modules/mime-types',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/mime-db',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/har-validator',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/chalk',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/ansi-styles',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/escape-string-regexp',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/has-ansi',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/ansi-regex',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/strip-ansi',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/supports-color',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/commander',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/graceful-readlink',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/is-my-json-valid',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/generate-function',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/generate-object-property',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/is-property',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/jsonpointer',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/xtend',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/hawk',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/boom',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/hoek',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/cryptiles',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/sntp',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/http-signature',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/assert-plus',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/jsprim',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/extsprintf',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/json-schema',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/verror',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/sshpk',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/sshpk/node_modules/asn1',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/sshpk/node_modules/assert-plus',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/dashdash',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/dashdash/node_modules/assert-plus',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/getpass',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/getpass/node_modules/assert-plus',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/is-typedarray',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/isstream',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/json-stringify-safe',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/mime-types',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/node-uuid',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/oauth-sign',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/qs',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/stringstream',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/tough-cookie',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/tunnel-agent',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/request-progress',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/throttleit',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/which',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/isexe',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/tmp',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/os-tmpdir',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/ecc-jsbn',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/jsbn',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/jodid25519',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/sync-exec',
+121 silly rebuild set   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/tweetnacl' ]
+122 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/copy-paste
+123 info lifecycle copy-paste@1.3.0~preinstall: copy-paste@1.3.0
+124 silly lifecycle copy-paste@1.3.0~preinstall: no script for preinstall, continuing
+125 info linkStuff copy-paste@1.3.0
+126 silly linkStuff copy-paste@1.3.0 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules as its parent node_modules
+127 verbose linkBins copy-paste@1.3.0
+128 verbose linkMans copy-paste@1.3.0
+129 verbose rebuildBundles copy-paste@1.3.0
+130 info lifecycle copy-paste@1.3.0~install: copy-paste@1.3.0
+131 silly lifecycle copy-paste@1.3.0~install: no script for install, continuing
+132 info lifecycle copy-paste@1.3.0~postinstall: copy-paste@1.3.0
+133 silly lifecycle copy-paste@1.3.0~postinstall: no script for postinstall, continuing
+134 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/iconv-lite
+135 info lifecycle iconv-lite@0.4.13~preinstall: iconv-lite@0.4.13
+136 silly lifecycle iconv-lite@0.4.13~preinstall: no script for preinstall, continuing
+137 info linkStuff iconv-lite@0.4.13
+138 silly linkStuff iconv-lite@0.4.13 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules as its parent node_modules
+139 verbose linkBins iconv-lite@0.4.13
+140 verbose linkMans iconv-lite@0.4.13
+141 verbose rebuildBundles iconv-lite@0.4.13
+142 info lifecycle iconv-lite@0.4.13~install: iconv-lite@0.4.13
+143 silly lifecycle iconv-lite@0.4.13~install: no script for install, continuing
+144 info lifecycle iconv-lite@0.4.13~postinstall: iconv-lite@0.4.13
+145 silly lifecycle iconv-lite@0.4.13~postinstall: no script for postinstall, continuing
+146 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/jquery
+147 info lifecycle jquery@3.2.1~preinstall: jquery@3.2.1
+148 silly lifecycle jquery@3.2.1~preinstall: no script for preinstall, continuing
+149 info linkStuff jquery@3.2.1
+150 silly linkStuff jquery@3.2.1 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules as its parent node_modules
+151 verbose linkBins jquery@3.2.1
+152 verbose linkMans jquery@3.2.1
+153 verbose rebuildBundles jquery@3.2.1
+154 info lifecycle jquery@3.2.1~install: jquery@3.2.1
+155 silly lifecycle jquery@3.2.1~install: no script for install, continuing
+156 info lifecycle jquery@3.2.1~postinstall: jquery@3.2.1
+157 silly lifecycle jquery@3.2.1~postinstall: no script for postinstall, continuing
+158 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/node-cmd
+159 info lifecycle node-cmd@1.3.0~preinstall: node-cmd@1.3.0
+160 silly lifecycle node-cmd@1.3.0~preinstall: no script for preinstall, continuing
+161 info linkStuff node-cmd@1.3.0
+162 silly linkStuff node-cmd@1.3.0 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules as its parent node_modules
+163 verbose linkBins node-cmd@1.3.0
+164 verbose linkMans node-cmd@1.3.0
+165 verbose rebuildBundles node-cmd@1.3.0
+166 info lifecycle node-cmd@1.3.0~install: node-cmd@1.3.0
+167 silly lifecycle node-cmd@1.3.0~install: no script for install, continuing
+168 info lifecycle node-cmd@1.3.0~postinstall: node-cmd@1.3.0
+169 silly lifecycle node-cmd@1.3.0~postinstall: no script for postinstall, continuing
+170 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/path
+171 info lifecycle path@0.12.7~preinstall: path@0.12.7
+172 silly lifecycle path@0.12.7~preinstall: no script for preinstall, continuing
+173 info linkStuff path@0.12.7
+174 silly linkStuff path@0.12.7 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules as its parent node_modules
+175 verbose linkBins path@0.12.7
+176 verbose linkMans path@0.12.7
+177 verbose rebuildBundles path@0.12.7
+178 info lifecycle path@0.12.7~install: path@0.12.7
+179 silly lifecycle path@0.12.7~install: no script for install, continuing
+180 info lifecycle path@0.12.7~postinstall: path@0.12.7
+181 silly lifecycle path@0.12.7~postinstall: no script for postinstall, continuing
+182 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/process
+183 info lifecycle process@0.11.4~preinstall: process@0.11.4
+184 silly lifecycle process@0.11.4~preinstall: no script for preinstall, continuing
+185 info linkStuff process@0.11.4
+186 silly linkStuff process@0.11.4 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules as its parent node_modules
+187 verbose linkBins process@0.11.4
+188 verbose linkMans process@0.11.4
+189 verbose rebuildBundles process@0.11.4
+190 info lifecycle process@0.11.4~install: process@0.11.4
+191 silly lifecycle process@0.11.4~install: no script for install, continuing
+192 info lifecycle process@0.11.4~postinstall: process@0.11.4
+193 silly lifecycle process@0.11.4~postinstall: no script for postinstall, continuing
+194 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/util
+195 info lifecycle util@0.10.3~preinstall: util@0.10.3
+196 silly lifecycle util@0.10.3~preinstall: no script for preinstall, continuing
+197 info linkStuff util@0.10.3
+198 silly linkStuff util@0.10.3 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules as its parent node_modules
+199 verbose linkBins util@0.10.3
+200 verbose linkMans util@0.10.3
+201 verbose rebuildBundles util@0.10.3
+202 info lifecycle util@0.10.3~install: util@0.10.3
+203 silly lifecycle util@0.10.3~install: no script for install, continuing
+204 info lifecycle util@0.10.3~postinstall: util@0.10.3
+205 silly lifecycle util@0.10.3~postinstall: no script for postinstall, continuing
+206 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/inherits
+207 info lifecycle inherits@2.0.1~preinstall: inherits@2.0.1
+208 silly lifecycle inherits@2.0.1~preinstall: no script for preinstall, continuing
+209 info linkStuff inherits@2.0.1
+210 silly linkStuff inherits@2.0.1 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules as its parent node_modules
+211 verbose linkBins inherits@2.0.1
+212 verbose linkMans inherits@2.0.1
+213 verbose rebuildBundles inherits@2.0.1
+214 info lifecycle inherits@2.0.1~install: inherits@2.0.1
+215 silly lifecycle inherits@2.0.1~install: no script for install, continuing
+216 info lifecycle inherits@2.0.1~postinstall: inherits@2.0.1
+217 silly lifecycle inherits@2.0.1~postinstall: no script for postinstall, continuing
+218 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/pn
+219 info lifecycle pn@1.0.0~preinstall: pn@1.0.0
+220 silly lifecycle pn@1.0.0~preinstall: no script for preinstall, continuing
+221 info linkStuff pn@1.0.0
+222 silly linkStuff pn@1.0.0 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules as its parent node_modules
+223 verbose linkBins pn@1.0.0
+224 verbose linkMans pn@1.0.0
+225 verbose rebuildBundles pn@1.0.0
+226 info lifecycle pn@1.0.0~install: pn@1.0.0
+227 silly lifecycle pn@1.0.0~install: no script for install, continuing
+228 info lifecycle pn@1.0.0~postinstall: pn@1.0.0
+229 silly lifecycle pn@1.0.0~postinstall: no script for postinstall, continuing
+230 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/svgexport
+231 info lifecycle svgexport@0.3.2~preinstall: svgexport@0.3.2
+232 silly lifecycle svgexport@0.3.2~preinstall: no script for preinstall, continuing
+233 info linkStuff svgexport@0.3.2
+234 silly linkStuff svgexport@0.3.2 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules as its parent node_modules
+235 verbose linkBins svgexport@0.3.2
+236 verbose link bins [ { svgexport: 'bin/index.js' },
+236 verbose link bins   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/.bin',
+236 verbose link bins   false ]
+237 verbose linkMans svgexport@0.3.2
+238 verbose rebuildBundles svgexport@0.3.2
+239 info lifecycle svgexport@0.3.2~install: svgexport@0.3.2
+240 silly lifecycle svgexport@0.3.2~install: no script for install, continuing
+241 info lifecycle svgexport@0.3.2~postinstall: svgexport@0.3.2
+242 silly lifecycle svgexport@0.3.2~postinstall: no script for postinstall, continuing
+243 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/async
+244 info lifecycle async@1.5.2~preinstall: async@1.5.2
+245 silly lifecycle async@1.5.2~preinstall: no script for preinstall, continuing
+246 info linkStuff async@1.5.2
+247 silly linkStuff async@1.5.2 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules as its parent node_modules
+248 verbose linkBins async@1.5.2
+249 verbose linkMans async@1.5.2
+250 verbose rebuildBundles async@1.5.2
+251 info lifecycle async@1.5.2~install: async@1.5.2
+252 silly lifecycle async@1.5.2~install: no script for install, continuing
+253 info lifecycle async@1.5.2~postinstall: async@1.5.2
+254 silly lifecycle async@1.5.2~postinstall: no script for postinstall, continuing
+255 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt
+256 info lifecycle phantomjs-prebuilt@2.1.7~preinstall: phantomjs-prebuilt@2.1.7
+257 silly lifecycle phantomjs-prebuilt@2.1.7~preinstall: no script for preinstall, continuing
+258 info linkStuff phantomjs-prebuilt@2.1.7
+259 silly linkStuff phantomjs-prebuilt@2.1.7 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules as its parent node_modules
+260 verbose linkBins phantomjs-prebuilt@2.1.7
+261 verbose link bins [ { phantomjs: './bin/phantomjs' },
+261 verbose link bins   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/.bin',
+261 verbose link bins   false ]
+262 verbose linkMans phantomjs-prebuilt@2.1.7
+263 verbose rebuildBundles phantomjs-prebuilt@2.1.7
+264 verbose rebuildBundles [ '.bin',
+264 verbose rebuildBundles   'assert-plus',
+264 verbose rebuildBundles   'aws-sign2',
+264 verbose rebuildBundles   'bl',
+264 verbose rebuildBundles   'caseless',
+264 verbose rebuildBundles   'extend',
+264 verbose rebuildBundles   'har-validator',
+264 verbose rebuildBundles   'hawk',
+264 verbose rebuildBundles   'http-signature',
+264 verbose rebuildBundles   'mime-types',
+264 verbose rebuildBundles   'qs',
+264 verbose rebuildBundles   'readable-stream',
+264 verbose rebuildBundles   'request' ]
+265 verbose rebuild bundle /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/assert-plus
+266 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/assert-plus
+267 info lifecycle assert-plus@0.2.0~preinstall: assert-plus@0.2.0
+268 silly lifecycle assert-plus@0.2.0~preinstall: no script for preinstall, continuing
+269 info linkStuff assert-plus@0.2.0
+270 silly linkStuff assert-plus@0.2.0 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules as its parent node_modules
+271 verbose linkBins assert-plus@0.2.0
+272 verbose linkMans assert-plus@0.2.0
+273 verbose rebuildBundles assert-plus@0.2.0
+274 info lifecycle assert-plus@0.2.0~install: assert-plus@0.2.0
+275 silly lifecycle assert-plus@0.2.0~install: no script for install, continuing
+276 info lifecycle assert-plus@0.2.0~postinstall: assert-plus@0.2.0
+277 silly lifecycle assert-plus@0.2.0~postinstall: no script for postinstall, continuing
+278 verbose rebuild bundle /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/aws-sign2
+279 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/aws-sign2
+280 info lifecycle aws-sign2@0.6.0~preinstall: aws-sign2@0.6.0
+281 silly lifecycle aws-sign2@0.6.0~preinstall: no script for preinstall, continuing
+282 info linkStuff aws-sign2@0.6.0
+283 silly linkStuff aws-sign2@0.6.0 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules as its parent node_modules
+284 verbose linkBins aws-sign2@0.6.0
+285 verbose linkMans aws-sign2@0.6.0
+286 verbose rebuildBundles aws-sign2@0.6.0
+287 info lifecycle aws-sign2@0.6.0~install: aws-sign2@0.6.0
+288 silly lifecycle aws-sign2@0.6.0~install: no script for install, continuing
+289 info lifecycle aws-sign2@0.6.0~postinstall: aws-sign2@0.6.0
+290 silly lifecycle aws-sign2@0.6.0~postinstall: no script for postinstall, continuing
+291 verbose rebuild bundle /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/bl
+292 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/bl
+293 info lifecycle bl@1.0.3~preinstall: bl@1.0.3
+294 silly lifecycle bl@1.0.3~preinstall: no script for preinstall, continuing
+295 info linkStuff bl@1.0.3
+296 silly linkStuff bl@1.0.3 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules as its parent node_modules
+297 verbose linkBins bl@1.0.3
+298 verbose linkMans bl@1.0.3
+299 verbose rebuildBundles bl@1.0.3
+300 info lifecycle bl@1.0.3~install: bl@1.0.3
+301 silly lifecycle bl@1.0.3~install: no script for install, continuing
+302 info lifecycle bl@1.0.3~postinstall: bl@1.0.3
+303 silly lifecycle bl@1.0.3~postinstall: no script for postinstall, continuing
+304 verbose rebuild bundle /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/caseless
+305 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/caseless
+306 info lifecycle caseless@0.11.0~preinstall: caseless@0.11.0
+307 silly lifecycle caseless@0.11.0~preinstall: no script for preinstall, continuing
+308 info linkStuff caseless@0.11.0
+309 silly linkStuff caseless@0.11.0 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules as its parent node_modules
+310 verbose linkBins caseless@0.11.0
+311 verbose linkMans caseless@0.11.0
+312 verbose rebuildBundles caseless@0.11.0
+313 info lifecycle caseless@0.11.0~install: caseless@0.11.0
+314 silly lifecycle caseless@0.11.0~install: no script for install, continuing
+315 info lifecycle caseless@0.11.0~postinstall: caseless@0.11.0
+316 silly lifecycle caseless@0.11.0~postinstall: no script for postinstall, continuing
+317 verbose rebuild bundle /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/extend
+318 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/extend
+319 info lifecycle extend@3.0.0~preinstall: extend@3.0.0
+320 silly lifecycle extend@3.0.0~preinstall: no script for preinstall, continuing
+321 info linkStuff extend@3.0.0
+322 silly linkStuff extend@3.0.0 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules as its parent node_modules
+323 verbose linkBins extend@3.0.0
+324 verbose linkMans extend@3.0.0
+325 verbose rebuildBundles extend@3.0.0
+326 info lifecycle extend@3.0.0~install: extend@3.0.0
+327 silly lifecycle extend@3.0.0~install: no script for install, continuing
+328 info lifecycle extend@3.0.0~postinstall: extend@3.0.0
+329 silly lifecycle extend@3.0.0~postinstall: no script for postinstall, continuing
+330 verbose rebuild bundle /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/har-validator
+331 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/har-validator
+332 info lifecycle har-validator@2.0.6~preinstall: har-validator@2.0.6
+333 silly lifecycle har-validator@2.0.6~preinstall: no script for preinstall, continuing
+334 info linkStuff har-validator@2.0.6
+335 silly linkStuff har-validator@2.0.6 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules as its parent node_modules
+336 verbose linkBins har-validator@2.0.6
+337 verbose link bins [ { 'har-validator': 'bin/har-validator' },
+337 verbose link bins   '/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/.bin',
+337 verbose link bins   false ]
+338 verbose linkMans har-validator@2.0.6
+339 verbose rebuildBundles har-validator@2.0.6
+340 info lifecycle har-validator@2.0.6~install: har-validator@2.0.6
+341 silly lifecycle har-validator@2.0.6~install: no script for install, continuing
+342 info lifecycle har-validator@2.0.6~postinstall: har-validator@2.0.6
+343 silly lifecycle har-validator@2.0.6~postinstall: no script for postinstall, continuing
+344 verbose rebuild bundle /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/hawk
+345 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/hawk
+346 info lifecycle hawk@3.1.3~preinstall: hawk@3.1.3
+347 silly lifecycle hawk@3.1.3~preinstall: no script for preinstall, continuing
+348 info linkStuff hawk@3.1.3
+349 silly linkStuff hawk@3.1.3 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules as its parent node_modules
+350 verbose linkBins hawk@3.1.3
+351 verbose linkMans hawk@3.1.3
+352 verbose rebuildBundles hawk@3.1.3
+353 info lifecycle hawk@3.1.3~install: hawk@3.1.3
+354 silly lifecycle hawk@3.1.3~install: no script for install, continuing
+355 info lifecycle hawk@3.1.3~postinstall: hawk@3.1.3
+356 silly lifecycle hawk@3.1.3~postinstall: no script for postinstall, continuing
+357 verbose rebuild bundle /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/http-signature
+358 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/http-signature
+359 info lifecycle http-signature@1.1.1~preinstall: http-signature@1.1.1
+360 silly lifecycle http-signature@1.1.1~preinstall: no script for preinstall, continuing
+361 info linkStuff http-signature@1.1.1
+362 silly linkStuff http-signature@1.1.1 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules as its parent node_modules
+363 verbose linkBins http-signature@1.1.1
+364 verbose linkMans http-signature@1.1.1
+365 verbose rebuildBundles http-signature@1.1.1
+366 info lifecycle http-signature@1.1.1~install: http-signature@1.1.1
+367 silly lifecycle http-signature@1.1.1~install: no script for install, continuing
+368 info lifecycle http-signature@1.1.1~postinstall: http-signature@1.1.1
+369 silly lifecycle http-signature@1.1.1~postinstall: no script for postinstall, continuing
+370 verbose rebuild bundle /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/mime-types
+371 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/mime-types
+372 info lifecycle mime-types@2.1.11~preinstall: mime-types@2.1.11
+373 silly lifecycle mime-types@2.1.11~preinstall: no script for preinstall, continuing
+374 info linkStuff mime-types@2.1.11
+375 silly linkStuff mime-types@2.1.11 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules as its parent node_modules
+376 verbose linkBins mime-types@2.1.11
+377 verbose linkMans mime-types@2.1.11
+378 verbose rebuildBundles mime-types@2.1.11
+379 info lifecycle mime-types@2.1.11~install: mime-types@2.1.11
+380 silly lifecycle mime-types@2.1.11~install: no script for install, continuing
+381 info lifecycle mime-types@2.1.11~postinstall: mime-types@2.1.11
+382 silly lifecycle mime-types@2.1.11~postinstall: no script for postinstall, continuing
+383 verbose rebuild bundle /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/qs
+384 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/qs
+385 info lifecycle qs@5.2.0~preinstall: qs@5.2.0
+386 silly lifecycle qs@5.2.0~preinstall: no script for preinstall, continuing
+387 info linkStuff qs@5.2.0
+388 silly linkStuff qs@5.2.0 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules as its parent node_modules
+389 verbose linkBins qs@5.2.0
+390 verbose linkMans qs@5.2.0
+391 verbose rebuildBundles qs@5.2.0
+392 info lifecycle qs@5.2.0~install: qs@5.2.0
+393 silly lifecycle qs@5.2.0~install: no script for install, continuing
+394 info lifecycle qs@5.2.0~postinstall: qs@5.2.0
+395 silly lifecycle qs@5.2.0~postinstall: no script for postinstall, continuing
+396 verbose rebuild bundle /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/readable-stream
+397 info build /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/readable-stream
+398 info lifecycle readable-stream@2.0.6~preinstall: readable-stream@2.0.6
+399 silly lifecycle readable-stream@2.0.6~preinstall: no script for preinstall, continuing
+400 info linkStuff readable-stream@2.0.6
+401 silly linkStuff readable-stream@2.0.6 has /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules as its parent node_modules
+402 verbose linkBins readable-stream@2.0.6
+403 verbose linkMans readable-stream@2.0.6
+404 verbose rebuildBundles readable-stream@2.0.6
+405 info lifecycle readable-stream@2.0.6~install: readable-stream@2.0.6
+406 silly lifecycle readable-stream@2.0.6~install: no script for install, continuing
+407 info lifecycle readable-stream@2.0.6~postinstall: readable-stream@2.0.6
+408 silly lifecycle readable-stream@2.0.6~postinstall: no script for postinstall, continuing
+409 info lifecycle phantomjs-prebuilt@2.1.7~install: phantomjs-prebuilt@2.1.7
+410 verbose lifecycle phantomjs-prebuilt@2.1.7~install: unsafe-perm in lifecycle true
+411 verbose lifecycle phantomjs-prebuilt@2.1.7~install: PATH: /usr/share/npm/bin/node-gyp-bin:/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt/node_modules/.bin:/home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/.bin:/home/paolo/bin:/home/paolo/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+412 verbose lifecycle phantomjs-prebuilt@2.1.7~install: CWD: /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2/node_modules/phantomjs-prebuilt
+413 silly lifecycle phantomjs-prebuilt@2.1.7~install: Args: [ '-c', 'node install.js' ]
+414 info lifecycle phantomjs-prebuilt@2.1.7~install: Failed to exec install script
+415 verbose stack Error: phantomjs-prebuilt@2.1.7 install: `node install.js`
+415 verbose stack spawn ENOENT
+415 verbose stack     at ChildProcess.<anonymous> (/usr/share/npm/lib/utils/spawn.js:17:16)
+415 verbose stack     at emitTwo (events.js:87:13)
+415 verbose stack     at ChildProcess.emit (events.js:172:7)
+415 verbose stack     at maybeClose (internal/child_process.js:821:16)
+415 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)
+416 verbose pkgid phantomjs-prebuilt@2.1.7
+417 verbose cwd /home/paolo/.vscode/extensions/cssho.vscode-svgviewer-1.4.2
+418 error Linux 4.10.0-30-generic
+419 error argv "/usr/bin/nodejs" "/usr/bin/npm" "rebuild"
+420 error node v4.2.6
+421 error npm  v3.5.2
+422 error file sh
+423 error code ELIFECYCLE
+424 error errno ENOENT
+425 error syscall spawn
+426 error phantomjs-prebuilt@2.1.7 install: `node install.js`
+426 error spawn ENOENT
+427 error Failed at the phantomjs-prebuilt@2.1.7 install script 'node install.js'.
+427 error Make sure you have the latest version of node.js and npm installed.
+427 error If you do, this is most likely a problem with the phantomjs-prebuilt package,
+427 error not with npm itself.
+427 error Tell the author that this fails on your system:
+427 error     node install.js
+427 error You can get information on how to open an issue for this project with:
+427 error     npm bugs phantomjs-prebuilt
+427 error Or if that isn't available, you can get their info via:
+427 error     npm owner ls phantomjs-prebuilt
+427 error There is likely additional logging output above.
+428 verbose exit [ 1, true ]
